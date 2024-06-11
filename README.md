@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+bem vindo ao meu peril ;)
+Meu nome é Nicolle
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+00001101343291sp@aluno.educacao.sp.gov.br
